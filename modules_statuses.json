@@ -1,0 +1,13 @@
+{
+    "Admin": true,
+    "Billing": false,
+    "Dataencoding": false,
+    "Feasibility": false,
+    "Sales": true,
+    "SCM": false,
+    "Ticketing": false,
+    "SoftwareSettings": true,
+    "HR": true,
+    "SupplyChain": true,
+    "Accounting": true
+}
